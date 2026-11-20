@@ -1,0 +1,6 @@
+.env
+noteitup.db
+storage/*
+!storage/.gitkeep
+__pycache__/
+.venv/
